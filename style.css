@@ -1,0 +1,67 @@
+.name{
+	font-style: oblique;
+    font-family: Apple Chancery, cursive;
+    font-size:25px ;
+    text-shadow: 5px 5px 10px grey;
+    color:black ;
+    text-decoration: none;
+}
+
+.optionn{
+	font-weight: bolder;
+	color:white;
+    border:none;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.optionn:hover{
+	background-color:#F8BBD0;
+	}
+a:hover{
+	text-decoration: none;
+}
+
+.seconddiv{
+background-color: yellow;
+}
+
+h5{
+    font-size:40px;
+    font-family: Helvetica;
+    text-align: center;
+
+}
+
+p{
+    font-size: 42px;
+    font-style: italic;
+    font-family: Brush Script MT;
+    text-align: center;
+}
+.text{
+	padding-top: 1px;
+	text-align: center;
+	top:80%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	color: white;
+	position: absolute;  /*position absolute ki waja se text pic k opar agya*/
+}
+
+.ss{
+	position: relative;
+}
+.secondRow{
+	background-color:#D0D0D0	;}
+
+	.footer{
+		 margin-right: 0px !important;
+    right:0px !important;
+    margin:0px !important;
+    background-color: #FFCDD2 !important; /*Rendereing bootstrap css*/
+    border: 2px solid #D4E157 !important;
+    padding-top: 8px !important;
+    background-attachment: fixed;
+text-align:center;
+	}
